@@ -165,6 +165,6 @@ Les conteneurs lancés par Jenkins tournent dans Docker Desktop :
 
 ![conteneurs jenkins](screenshots/22-jenkins-conteneurs.png)
 
-## Remarque
+J'ai aussi ajouté le fichier `Jenkinsfile` à la racine du dépôt (le même script que celui du pipeline) et poussé le README avec les captures sur GitHub :
 
-Le serveur fourni n'utilise pas encore MongoDB dans son code. La variable `MONGO_URI` est définie et le conteneur `mongodb` est sur le même réseau, prêt pour une utilisation future.
+![dernier commit](screenshots/23-dernier-commit.png)
